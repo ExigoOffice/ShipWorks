@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using Exigo_Fufillment.Areas.HelpPage.ModelDescriptions;
-using Exigo_Fufillment.Areas.HelpPage.Models;
+using ExigoShipWorks.Areas.HelpPage.ModelDescriptions;
+using ExigoShipWorks.Areas.HelpPage.Models;
 
-namespace Exigo_Fufillment.Areas.HelpPage.Controllers
+namespace ExigoShipWorks.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

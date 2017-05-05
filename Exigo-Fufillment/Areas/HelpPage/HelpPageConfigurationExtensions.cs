@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using Exigo_Fufillment.Areas.HelpPage.ModelDescriptions;
-using Exigo_Fufillment.Areas.HelpPage.Models;
+using ExigoShipWorks.Areas.HelpPage.ModelDescriptions;
+using ExigoShipWorks.Areas.HelpPage.Models;
 
-namespace Exigo_Fufillment.Areas.HelpPage
+namespace ExigoShipWorks.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

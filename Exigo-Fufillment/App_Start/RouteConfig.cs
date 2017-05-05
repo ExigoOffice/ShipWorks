@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Exigo_Fufillment
+namespace ExigoShipWorks
 {
     public class RouteConfig
     {
@@ -15,9 +15,10 @@ namespace Exigo_Fufillment
 
             routes.MapRoute(
                 name: "Default",
-                url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                url: "{controller}/{action}/{companykey}/{sandbox}",
+                defaults: new { controller = "Home", action = "Index", companykey = UrlParameter.Optional, sandbox = UrlParameter.Optional }
             );
+
         }
     }
 }

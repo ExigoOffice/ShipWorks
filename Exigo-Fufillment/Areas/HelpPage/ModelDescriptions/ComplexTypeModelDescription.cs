@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace Exigo_Fufillment.Areas.HelpPage.ModelDescriptions
+namespace ExigoShipWorks.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

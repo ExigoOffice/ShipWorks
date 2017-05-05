@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace Exigo_Fufillment.Areas.HelpPage
+namespace ExigoShipWorks.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

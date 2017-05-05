@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace Exigo_Fufillment.Areas.HelpPage
+namespace ExigoShipWorks.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

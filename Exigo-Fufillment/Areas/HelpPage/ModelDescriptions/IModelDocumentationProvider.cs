@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace Exigo_Fufillment.Areas.HelpPage.ModelDescriptions
+namespace ExigoShipWorks.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

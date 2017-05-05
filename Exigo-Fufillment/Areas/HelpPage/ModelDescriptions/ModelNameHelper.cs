@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace Exigo_Fufillment.Areas.HelpPage.ModelDescriptions
+namespace ExigoShipWorks.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

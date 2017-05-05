@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using Exigo_Fufillment.Areas.HelpPage.ModelDescriptions;
+using ExigoShipWorks.Areas.HelpPage.ModelDescriptions;
 
-namespace Exigo_Fufillment.Areas.HelpPage.Models
+namespace ExigoShipWorks.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

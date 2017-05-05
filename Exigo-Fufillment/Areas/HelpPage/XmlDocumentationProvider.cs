@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using Exigo_Fufillment.Areas.HelpPage.ModelDescriptions;
+using ExigoShipWorks.Areas.HelpPage.ModelDescriptions;
 
-namespace Exigo_Fufillment.Areas.HelpPage
+namespace ExigoShipWorks.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

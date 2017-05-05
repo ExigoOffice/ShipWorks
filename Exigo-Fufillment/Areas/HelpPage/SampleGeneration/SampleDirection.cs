@@ -1,4 +1,4 @@
-namespace Exigo_Fufillment.Areas.HelpPage
+namespace ExigoShipWorks.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response
